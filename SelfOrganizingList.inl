@@ -135,7 +135,7 @@ std::ostream& operator<<(std::ostream& out, const SelfOrganizingList<T>& sol) {
 		}
 	}
 	else
-		out << "список пуст.";
+		out << "СЃРїРёСЃРѕРє РїСѓСЃС‚.";
 	return out;
 }
 ///////////////////////////Iterator///////////////////////////
